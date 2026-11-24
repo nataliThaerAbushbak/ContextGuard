@@ -1,0 +1,6 @@
+{
+  "name": "ContextGuard",
+  "description": "Automated visual acceptance and requirements audit co-pilot with evidence-first verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
